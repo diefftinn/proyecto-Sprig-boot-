@@ -1,0 +1,13 @@
+package com.ejercio2.Ejerci2;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Ejerci2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
