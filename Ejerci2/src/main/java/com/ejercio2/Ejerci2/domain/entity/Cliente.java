@@ -1,9 +1,17 @@
 package com.ejercio2.Ejerci2.domain.entity;
 
+<<<<<<< HEAD
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import org.springframework.data.annotation.Id;
+=======
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+>>>>>>> 13d76c896632fd726d4175cc0a1e3ece868d9b10
 
 @Entity
 public class Cliente {

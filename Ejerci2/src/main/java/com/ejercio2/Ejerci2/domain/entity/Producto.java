@@ -3,7 +3,11 @@ package com.ejercio2.Ejerci2.domain.entity;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
+<<<<<<< HEAD
 import org.springframework.data.annotation.Id;
+=======
+import jakarta.persistence.Id;
+>>>>>>> 13d76c896632fd726d4175cc0a1e3ece868d9b10
 
 @Entity
 public class Producto {

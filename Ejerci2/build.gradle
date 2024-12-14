@@ -27,7 +27,11 @@ dependencies {
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 	//implementation 'org.mapstruct:mapstruct:1.6.0'
 	//annotationProcessor 'org.mapstruct:mapstruct-processor:1.6.0'
+<<<<<<< HEAD
 
+=======
+	//runtimeOnly 'com.h2database:h2'
+>>>>>>> 13d76c896632fd726d4175cc0a1e3ece868d9b10
 	implementation 'org.mapstruct:mapstruct:1.6.3'
 	annotationProcessor 'org.mapstruct:mapstruct-processor:1.6.3'
 }
